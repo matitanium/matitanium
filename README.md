@@ -8,9 +8,9 @@
 ---
 
 ### 💻 About Me:
-- 🔥 **4+ years of experience in Cybersecurity & Red Teaming**
+- 🔥 **4+ years of experience in Cybersecurity**
 - 🏆 **300+ security reports** submitted in Bug Bounty programs
-- 🎯 Expert in **Reverse Engineering, Malware Analysis, and Penetration Testing**
+- 🎯 Expert in **Penetration Testing, Web API security**
 - 🏗️ Deep understanding of **Microservices Architecture & Secure Development**
 - 🌱 Currently learning: **Kubernetes, OSINT, Advanced Windows Exploitation**
 - 📩 Reach me at: **matinnoryan@gmail.com**
@@ -22,8 +22,8 @@
 | 💻 Programming Languages | 🔧 Security Tools | ☁️ Cloud & Infrastructure |
 |-----------------|-----------------|----------------|
 | Python, C++, PHP, JavaScript | Metasploit, Burp Suite | Docker, Kubernetes |
-| Bash, PowerShell | Nmap, Wireshark | AWS, Azure |
-| Windows API | Ghidra, Radare2 | Linux Hardening |
+| Bash, PowerShell | Nmap, Wireshark | AWS |
+| Windows API |  | Linux Hardening |
 
 ---
 
