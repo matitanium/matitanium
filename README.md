@@ -36,7 +36,7 @@
 
 ### 🔥 Featured Projects:
 - 🔐 **[SuperRansomware](https://github.com/matitanium/superRansomware)** - A custom ransomware project
-- 🔍 **[Hash Cracker](https://github.com/matitanium/Hash-Cracker)** - A tool for cracking various hash types
+- 🔍 **[Hash Cracker](https://github.com/matitanium/hashcrack)** - A tool for cracking various hash types
 - 🛡 **[OSINT Tools](https://github.com/matitanium/OSINT-Tools)** - A collection of OSINT utilities
 
 ---
