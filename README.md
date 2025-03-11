@@ -11,7 +11,7 @@
 - 🔥 **4+ years of experience in Cybersecurity**
 - 🏆 **300+ security reports** submitted in Bug Bounty programs
 - 🎯 Expert in **Penetration Testing, Web API security**
-- 🏗️ Deep understanding of **Microservices Architecture & Secure Development**
+- 🏗️ CVE Exploit **https://www.exploit-db.com/exploits/51560)**
 - 🌱 Currently learning: **Kubernetes, OSINT, Advanced Windows Exploitation**
 - 📩 Reach me at: **matinnoryan@gmail.com**
 
@@ -19,11 +19,11 @@
 
 ### 🛠 Tech Stack:
 
-| 💻 Programming Languages | 🔧 Security Tools | ☁️ Cloud & Infrastructure |
+| 💻 Programming Languages | 🔧 Security Tools | ☁️ Skils |
 |-----------------|-----------------|----------------|
-| Python, C++, PHP, JavaScript | Metasploit, Burp Suite | Docker, Kubernetes |
-| Bash, PowerShell | Nmap, Wireshark | AWS |
-| Windows API |  | Linux Hardening |
+| Python, C++, JavaScript | Metasploit, Burp Suite | Docker, Kubernetes |
+| Bash, PowerShell, PHP | Nmap, Wireshark, Aircrack-ng | AWS, Android dynamic |
+| Windows API,   | Cobalt Strike | OSINT, OWASP, API,   |
 
 ---
 
@@ -35,10 +35,9 @@
 ---
 
 ### 🔥 Featured Projects:
-- 🔐 **[SuperRansomware](https://github.com/matitanium/SuperRansomware)** - A custom ransomware project
+- 🔐 **[SuperRansomware](https://github.com/matitanium/superRansomware)** - A custom ransomware project
 - 🔍 **[Hash Cracker](https://github.com/matitanium/Hash-Cracker)** - A tool for cracking various hash types
 - 🛡 **[OSINT Tools](https://github.com/matitanium/OSINT-Tools)** - A collection of OSINT utilities
-- 🏗 **[Microservices Security](https://github.com/matitanium/Microservices-Security)** - Best practices & vulnerabilities in microservices architecture
 
 ---
 
