@@ -9,10 +9,10 @@
 
 ### 💻 About Me:
 - 🔥 **4+ years of experience in Cybersecurity**
-- 🏆 **300+ security reports** submitted in Bug Bounty programs
-- 🎯 Expert in **Penetration Testing, Web API security**
+- 🏆 **400+ security reports** submitted in Bug Bounty programs
+- 🎯 Skill in **Penetration Testing, Web API security, Android, Red Team (IA)**
 - 🏗️ CVE Exploit **https://www.exploit-db.com/exploits/51560)**
-- 🌱 Currently learning: **Kubernetes, OSINT, Advanced Windows Exploitation**
+- 🌱 Interested in :  **OSINT, Android, Initial Access**
 - 📩 Reach me at: **matinnoryan@gmail.com**
 
 ---
